@@ -1,4 +1,4 @@
-# TALLER 3 - BUENAS PRACTICAS DE POO
+# TALLER 4 - Ejercicio de caso práctico de modelamiento de objetos
 
 ## INTRODUCCION
 
